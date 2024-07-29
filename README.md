@@ -1,2 +1,1 @@
-# LeetCode-SolutionsSaga 
-My perception of Paycom has significantly evolved since I first applied. Initially, I didn't fully realize how impressive the company was. However, after gaining firsthand experience, I've discovered the company’s outstanding culture, innovative technology, and supportive environment. The positive aspects of Paycom, including its commitment to employee growth and cutting-edge solutions, have far exceeded my expectations and made me appreciate the company even more.
+# LeetCode-
